@@ -6,3 +6,10 @@ box-shadow: 26px 24px 90px rgba(31, 26, 51, 0.13);
 border-radius: 50px;
 }
 
+.sha{
+  background: linear-gradient(140.55deg, #301758 9.72%, #301658 73.59%);
+opacity: 0.1;
+filter: blur(59.377px);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
