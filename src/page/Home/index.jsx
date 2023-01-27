@@ -16,6 +16,10 @@ const Home = () => {
                 <p className="text-redPink text-xl font-bold">#FLIP THE TIP</p>
                 <p className="text-white text-6xl font-black">AMAZING<br/>HEAD</p>
                 <p className="text-white text-base leading-7 font-normal pt-3">Soft, warm, fuzzy, satisfying felling wrapped around<br/> your joe and catty. Book a session and have ultimate<br/> satisfaction delivered right at your doorstep</p>
+            <div className="flex items-center gap-9 pt-20">
+                <button className="bg-purple rounded-full text-white px-4 py-3">Book Now</button>
+                <p className="text-white">Explore the satisfaction</p>
+            </div>
             </div>
         </div>
     </div>

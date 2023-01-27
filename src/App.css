@@ -4,6 +4,7 @@
   background: linear-gradient(243.86deg, rgba(70, 11, 32, 0.97) 6.29%, rgba(32, 10, 43, 0.69) 99.55%);
 box-shadow: 26px 24px 90px rgba(31, 26, 51, 0.13);
 border-radius: 50px;
+background-repeat: no-repeat;
 }
 
 .sha{
