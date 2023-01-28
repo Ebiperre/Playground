@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "url('/src/assets/images/lips.svg')",
+      }
+    },
     colors: {
       redPink: "#FF5B79",
       white: "#FFFFFF",
