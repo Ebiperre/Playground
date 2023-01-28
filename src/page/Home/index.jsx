@@ -8,7 +8,7 @@ const Home = () => {
             {/* left: image */}
             <div className="flex-1">
                 <img src="/src/assets/images/lips.svg" alt="" />
-                <span className="sha"></span>
+                {/* <span className="sha"></span> */}
             </div>
 
             {/* right: text */}

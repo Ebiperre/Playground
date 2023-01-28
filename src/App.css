@@ -5,6 +5,7 @@
 box-shadow: 26px 24px 90px rgba(31, 26, 51, 0.13);
 border-radius: 50px;
 background-repeat: no-repeat;
+background-size: cover;
 }
 
 .sha{
